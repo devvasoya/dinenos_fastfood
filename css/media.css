@@ -1,0 +1,600 @@
+@media (min-width: 1400px) {
+    .container {
+        width: 1320px;
+    }
+}
+
+@media (min-width: 1200px)and (max-width: 1399px) {
+    .container {
+        width: 1140px;
+    }
+
+}
+
+@media (min-width: 992px)and (max-width:1199px) {
+    .container {
+        width: 960px;
+    }
+
+    /* header  */
+    .header-main .logo-xl {
+        width: 93px !important;
+        text-align: center;
+        justify-content: center;
+        padding: 15px 0px;
+    }
+
+    /* 2-section  */
+    .banner-wrap .title-banner-xl {
+        font-size: 40px;
+    }
+
+    /* 3-section  */
+    .single-input-xl input {
+        width: 210px;
+        height: 60px;
+    }
+
+    .appoinment-form .form-btn-xl {
+        padding: 20px 33px;
+    }
+
+    /* 5-section */
+    .marquee-area .left {
+        width: 300px;
+    }
+
+    .marquee-area .right {
+        width: 300px;
+    }
+
+    /* 6-section */
+    .menu-area .title-banner-1 {
+        font-size: 49px;
+        line-height: 70px;
+    }
+
+    /* 9-section */
+    .gallery-area .col-3 {
+        width: 25%;
+    }
+
+    .i0d img {
+        width: 251px;
+        overflow: hidden;
+    }
+
+    .i0d .hov {
+        width: 251px;
+        overflow: hidden;
+    }
+
+    /* 10-section  */
+    .swiper-slide {
+        margin-bottom: 20px;
+    }
+
+
+}
+
+@media (min-width: 768px)and (max-width:991px) {
+    .container {
+        width: 720px;
+    }
+
+    /* header  */
+    .header-main .logo-xl {
+        width: 93px !important;
+        text-align: center;
+        justify-content: center;
+        padding: 15px 0px;
+    }
+
+    .mid-header .nav-ara ul {
+        display: none;
+    }
+
+    .header-main .menu .menu-link {
+        position: absolute;
+        left: 458px;
+    }
+
+    .header-main .menu .menu-link span {
+        background-color: #dd5903;
+    }
+
+    .header-main {
+        height: 50px;
+    }
+
+    .head-bot .ub-text {
+        font-size: 14px !important;
+    }
+
+    .head-bot .q-list {
+        margin-bottom: 0px;
+    }
+
+    .head-bot .text-head {
+        font-size: 16px;
+    }
+
+    /* 2-section  */
+    .banner-wrap .title-banner-xl {
+        font-size: 40px;
+    }
+
+    /* 3-sevction  */
+    .single-input-xl input {
+        width: 100%;
+        height: 60px;
+    }
+
+    .form-ara form {
+        gap: 0px;
+        flex-wrap: wrap
+    }
+
+    .appoinment-form .form-btn-xl {
+        padding: 20px 33px;
+        margin-left: 0px;
+    }
+
+    /* 4-section */
+    .rts-reservation-area .col-lg-12 {
+        width: 100%;
+        display: block;
+    }
+
+    /* 6-section */
+    .menu-area .title-banner-1 {
+        font-size: 42px;
+        line-height: 70px;
+    }
+
+    .portfolio-menu {
+        flex-wrap: wrap;
+        display: flex;
+    }
+
+    .sha-2 img {
+        display: none;
+    }
+
+    .sha-1 img {
+        display: none;
+    }
+
+    .batton-banner .set {
+        display: none;
+    }
+
+    /* 7-section */
+    .contact-area .divider {
+        margin: 500px 122px 120px 116px;
+    }
+
+    .contact-area-inner .col-lg-6 {
+        width: 100%;
+        margin-bottom: 50px;
+    }
+
+    .contact-area .counter-up {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    /* 9-section */
+    .gallery-area .col-3 {
+        width: 25%;
+    }
+
+    .i0d img {
+        width: 195px;
+        overflow: hidden;
+    }
+
+    .i0d .hov {
+        width: 195px;
+        overflow: hidden;
+    }
+
+    /* 10-section  */
+    .swiper-slide {
+        margin-bottom: 20px;
+    }
+
+    /* 11section */
+    .md-i .img-l img {
+        display: none;
+        padding-right: 10px;
+    }
+
+    /* foot  */
+    .fo-i {
+        width: 48% !important;
+        margin-bottom: 30px;
+        flex-wrap: wrap;
+    }
+
+    .main-foot {
+        flex-direction: row;
+        gap: 20px;
+        flex-wrap: wrap;
+    }
+}
+
+@media (min-width: 576px)and (max-width:767px) {
+    .container {
+        width: 520px;
+    }
+
+    /* header  */
+    .header-main .logo-xl {
+        width: 93px !important;
+        text-align: center;
+        justify-content: center;
+        padding: 15px 0px;
+        z-index: 1;
+        margin-left: 10px;
+    }
+
+    .mid-header .nav-ara ul {
+        display: none;
+    }
+
+    .header-main .menu .menu-link {
+        position: absolute;
+        left: 315px;
+    }
+
+    .header-main .menu .menu-link span {
+        background-color: #dd5903;
+    }
+
+    .header-main {
+        height: 90px!important;
+    }
+
+    .head-bot .ub-text {
+        font-size: 14px !important;
+    }
+
+    .head-bot .q-list {
+        margin-bottom: 0px;
+    }
+
+    .head-bot .text-head {
+        font-size: 16px;
+    }
+    .header-main .head-bot{
+        width: 31%;
+    }
+    /* 2-section  */
+    .banner-wrap .title-banner-xl {
+        font-size: 40px;
+    }
+
+    /* 3-sevction  */
+    .single-input-xl input {
+        width: 100%;
+        height: 60px;
+    }
+
+    .form-ara form {
+        gap: 0px;
+        flex-wrap: wrap
+    }
+
+    .appoinment-form .form-btn-xl {
+        padding: 20px 33px;
+        margin-left: 0px;
+    }
+
+    .form-ara .col-3 {
+        width: 100%;
+        padding: 0px 15px;
+    }
+
+    .input {
+        width: 331px;
+        margin-right: 0px;
+    }
+
+    /* 4-section */
+    .rts-reservation-area .col-sm-12 {
+        width: 100%;
+        display: block;
+    }
+
+    .form-ara .col-3 {
+        width: 50%;
+        padding: 0px 15px;
+    }
+
+    .input {
+        width: 331px;
+        margin-right: 0px;
+    }
+
+    .rts-reservation-area .line img {
+        display: none;
+    }
+
+    .rts-reservation-area .revel-item img {
+        display: none;
+    }
+
+    .rts-reservation-area .tham-2 span img {
+        display: none;
+    }
+
+    .rts-reservation-area .tham-1 img {
+        width: 430px !important;
+        justify-content: center;
+    }
+
+    /* 5-section */
+    .marquee-area .left {
+        width: 150px;
+    }
+
+    .marquee-area .right {
+        width: 150px;
+    }
+
+    /* 6-section */
+    .menu-area .title-banner-1 {
+        font-size: 42px;
+        line-height: 70px;
+    }
+
+    .portfolio-menu {
+        flex-wrap: wrap;
+        display: flex;
+    }
+
+    .sha-2 img {
+        display: none;
+    }
+
+    .sha-1 img {
+        display: none;
+    }
+
+    /* 7section */
+    .contact-area-inner .col-lg-6 {
+        width: 100%;
+        margin-bottom: 50px;
+    }
+
+    .contact-area .counter-up {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    /* 9-section */
+    .gallery-area .col-sm-6 {
+        width: 50%;
+    }
+
+    /* 10-section  */
+    .swiper-slide {
+        margin-bottom: 20px;
+    }
+
+    /* 11section */
+    .sm-i .img-l img {
+        display: none;
+        /* padding-right: 10px; */
+    }
+
+    /* foot  */
+    .fo-i {
+        width: 48% !important;
+        margin-bottom: 30px;
+        flex-wrap: wrap;
+    }
+
+    .main-foot {
+        flex-direction: row;
+        gap: 20px;
+        flex-wrap: wrap;
+    }
+
+    .foot .shap-1 {
+        display: none;
+    }
+
+    .foot .shap-2 {
+        display: none;
+    }
+}
+
+@media (max-width:575px) {
+    .container {
+        width: 100%;
+    }
+ /* header  */
+ .header-main .logo-xl {
+    width: 93px !important;
+    text-align: center;
+    justify-content: center;
+    padding: 15px 0px;
+    z-index: 1;
+    margin-left: 10px;
+}
+.header-main .logo-ara{
+    width: 23%!important;
+}
+.mid-header .nav-ara ul {
+    display: none;
+}
+
+.header-main .menu .menu-link {
+    position: absolute;
+    left: 255px;
+}
+
+.header-main .menu .menu-link span {
+    background-color: #dd5903;
+}
+
+.header-main {
+    height: 90px!important;
+}
+
+.head-bot .ub-text {
+    font-size: 14px !important;
+}
+
+.head-bot .q-list {
+    margin-bottom: 0px;
+}
+
+.head-bot .text-head {
+    font-size: 16px;
+}
+.header-main .head-bot{
+    width: 31%;
+}
+    /* 2-section  */
+    .banner-wrap .title-banner-xl {
+        font-size: 30px;
+    }
+
+    /* 3-section */
+    .input {
+        margin-right: 0px;
+        margin-bottom: 50px;
+
+    }
+
+    .form-ara .col-3 {
+        width: 100%;
+        padding: 0px 15px;
+    }
+
+    .form-ara form {
+        /* gap: 0px; */
+        flex-wrap: wrap
+    }
+
+    .appoinment-form .form-btn-xl {
+        padding: 20px 33px;
+        margin-left: 0px;
+    }
+
+    .form-ara .col-3 {
+        width: 50%;
+        padding: 0px 15px;
+    }
+
+    .input {
+        width: 331px;
+        margin-right: 0px;
+    }
+
+    /* 4-section */
+    .rts-reservation-area .col-sm-12 {
+        width: 100%;
+        display: block;
+    }
+
+    .rts-reservation-area .line img {
+        display: none;
+    }
+
+    .rts-reservation-area .revel-item img {
+        display: none;
+    }
+
+    .rts-reservation-area .tham-2 span img {
+        display: none;
+    }
+
+    .rts-reservation-area .tham-1 img {
+        width: 430px !important;
+        justify-content: center;
+    }
+
+    /* 5-section */
+    .marquee-area .left {
+        width: 100px;
+    }
+
+    .marquee-area .right {
+        width: 100px;
+    }
+
+    /* 6-section */
+    .menu-area .title-banner-1 {
+        font-size: 30px;
+        line-height: 70px;
+    }
+
+    .menu-area .title-banner-1 {
+        font-size: 42px;
+        line-height: 70px;
+    }
+
+    .portfolio-menu {
+        flex-wrap: wrap;
+        display: flex;
+    }
+
+    .sha-2 img {
+        display: none;
+    }
+
+    .sha-1 img {
+        display: none;
+    }
+
+    /* 7section */
+    .contact-area-inner .col-lg-6 {
+        width: 100%;
+        margin-bottom: 50px;
+    }
+
+    .contact-area .counter-up {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    /* 9-section */
+    .gallery-area .col-sm-6 {
+        width: 100%;
+    }
+
+    /* 10-section  */
+    .swiper-slide {
+        margin-bottom: 20px;
+    }
+
+    /* 11section */
+    .xs-i .img-l img {
+        display: none;
+    }
+
+    /* foot  */
+    .fo-i {
+        width: 48% !important;
+        margin-bottom: 30px;
+        flex-wrap: wrap;
+    }
+
+    .main-foot {
+        flex-direction: row;
+        gap: 20px;
+        flex-wrap: wrap;
+    }
+
+    .foot .shap-1 {
+        display: none;
+    }
+
+    .foot .shap-2 {
+        display: none;
+    }
+}
